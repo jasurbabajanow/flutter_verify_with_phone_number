@@ -1,0 +1,1 @@
+command:   keytool -list -v -keystore "C:\Users\PC-W10\.android\debug.keystore"-alias androiddebugkey -storepass android -keypass android
